@@ -76,11 +76,19 @@ public final class YuhuoBot extends JavaPlugin {
                                     event.getGroup().sendMessage(
                                             "/help, /yuhuo - 帮助菜单\n" +
                                                     "/anti-recall toggle - 开/关防撤回\n" +
+                                                    "----------\n" +
                                                     "/24 start - 开始一局24点游戏\n" +
                                                     "/24 ff - 放弃一局24点游戏\n" +
                                                     "/24 answer <answer> - 回答24点游戏的答案\n" +
                                                     "/24 lb - 查看本群24点游戏排行榜\n" +
-                                                    "        yuhuo Bot v0.1.0"
+                                                    "----------\n" +
+                                                    "/gob join - 五子棋 上桌\n" +
+                                                    "/gob leave - 五子棋 下桌\n" +
+                                                    "/gob start - 五子棋 开始游戏\n" +
+                                                    "/gob play <row> <col> - 在第row行第col列落子\n" +
+                                                    "/gob ff - 弃权，判对手获胜\n" +
+                                                    "/gob status - 查询五子棋游戏状态\n" +
+                                                    "                yuhuo Bot v0.2.1"
                                     );
                                     break;
                             }
