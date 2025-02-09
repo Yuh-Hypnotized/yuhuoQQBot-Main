@@ -7,6 +7,7 @@ Use **__/help__** or **__/yuhuo__** to trigger.
 
 
 It should work like this:  
-![image](https://github.com/user-attachments/assets/18f27373-f095-4904-aa62-d8947d8cb8bb)
+![image](https://github.com/user-attachments/assets/8d81c1a3-6ee6-4968-b3ed-8bdcb6ccc7b0)
+
 
 
