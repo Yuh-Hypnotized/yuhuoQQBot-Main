@@ -86,9 +86,12 @@ public final class YuhuoBot extends JavaPlugin {
                                                     "/gob leave - 五子棋 下桌\n" +
                                                     "/gob start - 五子棋 开始游戏\n" +
                                                     "/gob play <row> <col> - 在第row行第col列落子\n" +
+                                                    "/gp <row> <col> - 同上一条，gob play的缩写\n" +
                                                     "/gob ff - 弃权，判对手获胜\n" +
                                                     "/gob status - 查询五子棋游戏状态\n" +
-                                                    "                yuhuo Bot v0.2.1"
+                                                    "/gob profile - 查询五子棋个人资料/数据\n" +
+                                                    "/gob lb - 查询本群五子棋积分排行榜\n" +
+                                                    "                yuhuo Bot v0.2.2"
                                     );
                                     break;
                             }
